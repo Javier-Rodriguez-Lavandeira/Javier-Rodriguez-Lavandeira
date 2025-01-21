@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate software developer from Spain</h3>
 
-- 💻 My latest project was [Implementación de un teclado virtual basado en la detección de movimiento con sensores EMG](https://www.linkedin.com/posts/javier-rodr%C3%ADguez-lavandeira-890284333_implementation-of-a-virtual-keybord-using-activity-7271819356676800512-JvgC?utm_source=share&utm_medium=member_desktop)
+- 💻 My latest proyect was [Implementación de un teclado virtual basado en la detección de movimiento con sensores EMG](https://www.linkedin.com/posts/javier-rodr%C3%ADguez-lavandeira-890284333_implementation-of-a-virtual-keybord-using-activity-7271819356676800512-JvgC?utm_source=share&utm_medium=member_desktop)
 
 - 🌱 I’m currently learning **AR developing**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/javier rodríguez lavandeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier rodríguez lavandeira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/javier-rodríguez-lavandeira-890284333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/javier-rodríguez-lavandeira-890284333" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
