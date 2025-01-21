@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **VR/XR projects**
 
+- ✈ Open and ready to **relocate worldwide**
+
 - 📫 How to reach me **javirlcy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
