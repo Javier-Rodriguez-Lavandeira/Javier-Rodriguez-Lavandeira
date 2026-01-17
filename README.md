@@ -3,7 +3,7 @@
 
 - 💻 My Undergraduate thesis was [Implementación de un teclado virtual basado en la detección de movimiento con sensores EMG](https://www.linkedin.com/posts/javier-rodr%C3%ADguez-lavandeira-890284333_implementation-of-a-virtual-keybord-using-activity-7271819356676800512-JvgC?utm_source=share&utm_medium=member_desktop)
 
-- 🌱 I’m currently studying the **Msc in Virtual and Augmented Reality**
+- 🌱 I’m currently studying the **Msc in Virtual and Augmented Reality** at Goldsmiths University of London
 
 - 👯 I’m looking to collaborate on **VR/XR projects**
 
