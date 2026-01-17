@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate software developer from Spain</h3>
 
-- 💻 My latest proyect was [Implementación de un teclado virtual basado en la detección de movimiento con sensores EMG](https://www.linkedin.com/posts/javier-rodr%C3%ADguez-lavandeira-890284333_implementation-of-a-virtual-keybord-using-activity-7271819356676800512-JvgC?utm_source=share&utm_medium=member_desktop)
+- 💻 My Undergraduate thesis was [Implementación de un teclado virtual basado en la detección de movimiento con sensores EMG](https://www.linkedin.com/posts/javier-rodr%C3%ADguez-lavandeira-890284333_implementation-of-a-virtual-keybord-using-activity-7271819356676800512-JvgC?utm_source=share&utm_medium=member_desktop)
 
-- 🌱 I’m currently learning **AR developing**
+- 🌱 I’m currently studying the **Msc in Virtual and Augmented Reality**
 
 - 👯 I’m looking to collaborate on **VR/XR projects**
 
 - ✈ Open and ready to **relocate worldwide**
 
-- 📫 How to reach me **javirlcy@gmail.com**
+- 📫 How to reach me **javirlcy@gmail.com** or by [Linkedin](https://linkedin.com/in/javier-rodríguez-lavandeira-890284333)
 
-- 🏆 All of my proyects are available at [my portfolio](https://javier-rodriguez-lavandeira.github.io/My_Portfolio/)
+- 🏆 Most of my proyects are available at [my portfolio](https://javier-rodriguez-lavandeira.github.io/My_Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
