@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **javirlcy@gmail.com** or by [Linkedin](https://linkedin.com/in/javier-rodríguez-lavandeira-890284333)
 
-- 🏆 Most of my proyects are available at [my portfolio](https://javier-rodriguez-lavandeira.github.io/My_Portfolio/) or at [my itch.io page](https://javirola.itch.io/)
+- 🏆 Most of my proyects are available at [my portfolio](https://javier-rodriguez-lavandeira.github.io/My_Portfolio/) or at my [itch.io](https://javirola.itch.io/) page
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
