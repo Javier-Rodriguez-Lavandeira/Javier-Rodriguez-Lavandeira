@@ -13,7 +13,7 @@
 
 - 🏆 Most of my projects are available at [my portfolio](https://javier-rodriguez-lavandeira.github.io/My_Portfolio/) or at my [itch.io](https://javirola.itch.io/) page
 
-- 📄 Check out my [CV](https://1drv.ms/b/c/ed85599b829b8f5d/IQBdj5uCm1mFIIDtcn0BAAAAATmaZyeYkOpA5tVPQUyyzv8?e=TtbcDc)  
+- 📄 Check out my [CV](https://1drv.ms/b/c/ed85599b829b8f5d/IQBVYoU6wdwkS6VLYogZDPK4AT7HICug5EiM1QNSVZXMu8w?e=2tS1sb)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
